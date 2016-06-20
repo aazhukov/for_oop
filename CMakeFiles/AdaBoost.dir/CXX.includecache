@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/AdaBoost.cc
+AdaBoost.hh
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/AdaBoost.hh
+iostream
+-
+cmath
+-
+
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/AdaBoost.hh
+vector
+-
+string.h
+-
+Types.hh
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/Types.hh
+WeakClassifier.hh
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/WeakClassifier.hh
+
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/Types.hh
+vector
+-
+
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/WeakClassifier.hh
+vector
+-
+Types.hh
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/Types.hh
+

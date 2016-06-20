@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/Types.hh
+vector
+-
+
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/WeakClassifier.cc
+WeakClassifier.hh
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/WeakClassifier.hh
+cmath
+-
+iostream
+-
+
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/WeakClassifier.hh
+vector
+-
+Types.hh
+/home/azhukov/Documents/ComputerVision2/andrei_zhukov/Sheet03/src/Types.hh
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libWeakClassifier.a  CMakeFiles/WeakClassifier.dir/src/WeakClassifier.cc.o
+/usr/bin/ranlib libWeakClassifier.a

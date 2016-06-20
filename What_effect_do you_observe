@@ -1,0 +1,2 @@
+We observed saturation of the resultant classifier and modest signs of overfitting: test set accuracy doesn't improve and slightly decreases with oscillation when number of classifiers exceeds 25.
+

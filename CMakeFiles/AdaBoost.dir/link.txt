@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAdaBoost.a  CMakeFiles/AdaBoost.dir/src/AdaBoost.cc.o
+/usr/bin/ranlib libAdaBoost.a
